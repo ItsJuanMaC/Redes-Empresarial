@@ -1,0 +1,18 @@
+**[Inicio](Home)**
+
+1. [Metodología](01-Metodologia)
+2. [Direccionamiento](02-Direccionamiento)
+3. [Montaje y config. básica](03-Montaje-y-Configuracion-Basica)
+4. [VLANs e inter-VLAN](04-VLANs-e-Inter-VLAN)
+5. [Enrutamiento](05-Enrutamiento)
+6. [Túnel IPv6 e IPsec](06-Tunel-IPv6-e-IPsec)
+7. [DHCPv6, DNS y Web](07-Servicios-DHCPv6-DNS-Web)
+8. [ACLs](08-ACLs)
+9. [SNMP](09-SNMP)
+10. [Employee Tracker](10-Employee-Tracker)
+11. [Resultados](11-Resultados-y-Verificacion)
+12. [Retos y soluciones](12-Retos-y-Soluciones)
+13. [Conclusiones](13-Conclusiones)
+14. [Referencias](14-Referencias)
+15. [Roles y actas](15-Roles-Actas-y-Contribuciones)
+16. [Uso de IA](16-Uso-de-IA)
